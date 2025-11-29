@@ -2,7 +2,9 @@
 
 ## AWS
 [The AWS website](https://aws.amazon.com) has a floating navigation bar on a lot of pages which, when viewing on a small screen takes up way too much screen real estate. 
+
 example: [Training and Certification](https://aws.amazon.com/training/?nc2=h_rsc_lrn_tc)
+
 example: [Blog Post](https://aws.amazon.com/blogs/architecture/building-an-ai-gateway-to-amazon-bedrock-with-amazon-api-gateway/)
 
 ## And...
