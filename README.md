@@ -10,6 +10,11 @@ example: [Blog Post](https://aws.amazon.com/blogs/architecture/building-an-ai-ga
 ## And...
 ...it is frustrating! It's too big and takes up too much screen, especially on smaller laptops and mobile/tablet devices when reading blog posts.
 
+## Usage
+The script will hide the nav bar by default. 
+
+To toggle the visibility of the floating nav bar use CTRL+h. 
+
 ## Installation
 You will need [Tampermonkey](https://www.tampermonkey.net/) installed. Use the [raw version](https://github.com/deanlj/Toggle-AWS-Floating-NavBar/raw/refs/heads/main/toggle-aws-floating-navbar.user.js) to trigger Tampermonkey automatically detecting the script.
 
